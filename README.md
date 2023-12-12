@@ -1,1 +1,3 @@
-# oo-example-library
+# OO Example Library
+
+Hello Prog1!
